@@ -178,3 +178,6 @@ QT GENERATED CODE
 #######
 
 ui_*.h
+trunk/Launchy_QT/*.sln
+trunk/Launchy_QT/*/*.vcproj
+trunk/Launchy_QT/*/*/*.vcproj
